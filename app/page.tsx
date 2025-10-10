@@ -46,7 +46,6 @@ export default function Page() {
             className="md:hidden sm:block"
             alt="Screenshots of the dashboard project showing mobile version"
           />
-          const array = [1,2,3]
         </div>
       </div>
     </main>
